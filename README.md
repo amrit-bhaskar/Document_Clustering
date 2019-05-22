@@ -1,4 +1,4 @@
-A sense cluster file("wikipedia_stanford_sense_cluster") is required for prog.py.Refer this:
+A sense cluster file("wikipedia_stanford_sense_cluster") is required for the code "prog.py". Refer this link:
 http://ltmaggie.informatik.uni-hamburg.de/jobimtext/documentation/sense-clustering/
 
 
