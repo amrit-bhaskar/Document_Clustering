@@ -1,3 +1,8 @@
+A sense cluster file("wikipedia_stanford_sense_cluster") is required for prog.py.Refer this:
+http://ltmaggie.informatik.uni-hamburg.de/jobimtext/documentation/sense-clustering/
+
+
+
 # Document_Clustering
 Clustering files with respect to similarity between them
 
