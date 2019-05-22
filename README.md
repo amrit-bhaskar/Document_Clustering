@@ -28,7 +28,7 @@ Output is the clusters.
                       input : res_10.txt
                       output : res_12.txt
 
-
+## Result
 
 
 ![graph_dc](https://user-images.githubusercontent.com/31445774/58119016-af656900-7c1f-11e9-85ae-382d5dd7c8af.png)
